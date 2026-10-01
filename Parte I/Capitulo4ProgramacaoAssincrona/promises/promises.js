@@ -1,0 +1,1 @@
+// promises é uma forma de lidar com operações assíncronas em JavaScript. Elas representam um valor que pode estar disponível agora, no futuro ou nunca. Uma promise pode estar em um dos três estados: pendente (pending), resolvida (fulfilled) ou rejeitada (rejected).
